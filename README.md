@@ -1,3 +1,5 @@
+[![[Forked from] Badge](https://img.shields.io/badge/Forked%20from-OriginalProject-blue)]([原项目URL](https://github.com/zcgonvh/NTDSDumpEx))
+
 # NTDSDumpEx
 
 NTDS.dit offline dumper with non-elevated
@@ -28,5 +30,10 @@ NOTE : MUST BACKUP database file,and repair it frist(run [esentutl /p /o ntds.di
 
 `ntreg.c`,`ntreg.h` from search,fix some compatibility on windows,and remove the debug outputs.
 
+
+
 ### License
 GPL
+
+### Modification Notice
+This fork includes changes by [mabangde], last modified: 2025-03-03
