@@ -1,5 +1,4 @@
-[![[Forked from] Badge](https://img.shields.io/badge/Forked%20from-OriginalProject-blue)]([原项目URL](https://github.com/zcgonvh/NTDSDumpEx))
-
+[![[Forked from] [Badge](https://github.com/zcgonvh/NTDSDumpEx)]([https://img.shields.io/badge/Forked%20from-OriginalProject-blue]
 # NTDSDumpEx
 
 NTDS.dit offline dumper with non-elevated
